@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pembofrisbee
-- 🌱 I’m currently studing Math-CS at UCSD
 - 📫 How to reach me: rurenode@ucsd.edu
 
 <!---
