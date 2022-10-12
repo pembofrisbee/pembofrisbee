@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pembofrisbee
-- 📫 How to reach me: rurenode@ucsd.edu
+- 📫 How to reach me: rurenodembar@gmail.com
 
 <!---
 pembofrisbee/pembofrisbee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
